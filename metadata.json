@@ -1,0 +1,6 @@
+{
+  "name": "FoodieShare - 美食探店分享",
+  "description": "一個真正的美食分享平台，支持發布探店心得、實時點讚，數據持久保存且多人同步。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
